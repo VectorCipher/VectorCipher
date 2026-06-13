@@ -48,6 +48,7 @@ MedTSRL aims to bridge the gap between accurate classification and precise manip
 WRAITH is a fully local, autonomous AI-powered penetration testing agent designed to perform intelligent security assessments.
 
 The system leverages local Large Language Models to autonomously reason, plan, and execute penetration testing workflows against web targets while maintaining a completely local execution environment.
+
 ---
 
 ## 🎯 Research Interests
