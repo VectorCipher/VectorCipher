@@ -1,6 +1,6 @@
 # Hello, I'm Naitik Pal 👋
 
-I'm an AI Researcher and Engineer passionate about building intelligent systems at the intersection of Computer Vision, Generative AI, Reinforcement Learning, and Cybersecurity.
+I'm an AI Researcher and Engineer passionate about building intelligent systems at the intersection of Computer Vision, Generative AI and Reinforcement Learning.
 
 Currently, I am:
 
@@ -31,6 +31,7 @@ I am actively working on projects involving:
 An end-to-end Medical Assistant Chatbot built using LangChain and Pinecone Vector Database.
 
 MedGPT leverages Retrieval-Augmented Generation (RAG) to answer medical queries using trusted medical knowledge sources such as the Gale Encyclopedia of Medicine. The platform provides an intuitive conversational experience and integrates both backend intelligence and user-friendly interfaces.
+
 ---
 
 ### 🧠 MedTSRL
